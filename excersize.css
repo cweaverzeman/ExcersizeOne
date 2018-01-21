@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+  font-family: "Helvetica";
+  padding: 40px;
+  color: #ff1aff;
+}
+h2{
+  text-align: center;
+  font-family: "Helvetica";
+  padding: 20px;
+  color:#00aaff;
+}
+body{
+  font-family: "Helvetica";
+  padding: 60px;
+  line-height: 2;
+  color: #00b33c;
+  background-color: #ffff99;
+}
